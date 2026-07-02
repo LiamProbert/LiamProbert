@@ -18,7 +18,7 @@ IT support professional in training, currently transitioning from a customer-fac
 - **Operating Systems:** Linux, Windows, macOS
 - **Virtualisation:** KVM, QEMU, virt-manager
 - **Networking:** DNS, DHCP, Active Directory, Group Policy
-- **Tools:** Git, Bash, PowerShell, Obsidian
+- **Tools:** Bash, PowerShell, Obsidian, Crmping
 - **Soft Skills:** Customer service background across Royal Mail, hospitality, and retail
 
 ## Interests
