@@ -1,29 +1,28 @@
-
 # Hi, I'm Liam
 
-IT support professional in training, currently transitioning from a customer facing career into IT. Based near Glasgow, Scotland.
+Transitioning from a customer-facing background into IT support. Based near Glasgow, Scotland. I've got my CompTIA A+ and I'm building out a homelab and GitHub portfolio while I make the move.
 
 ## Certifications
 
 - **CompTIA A+**
 - **Google IT Support Certificate**
 
-## Currently Working On
+## Projects
 
-- **Active Directory Homelab** - Windows Server 2022 domain controller and Windows 10 client, built with KVM/QEMU on a Lenovo ThinkPad T480 running Fedora Linux. Domain services, GPOs, OUs, and user management configured on a lab.local domain.
-- **Raspberry Pi 5 Homelab** -  Pi-hole, running with twingate.
+- **[Helpdesk PowerShell Toolkit](https://github.com/LiamProbert/helpdesk-powershell-toolkit)** — Five PowerShell scripts automating common AD helpdesk tasks. Built and tested on my homelab domain controller.
+- **[Active Directory Homelab](https://github.com/LiamProbert/active-directory-homelab)** — Windows Server 2022 domain controller and Windows 10 client running on KVM/QEMU on a ThinkPad T480. OUs, GPOs, and user management configured on lab.local.
+- **[MacBook Pro Fan Repair](https://github.com/LiamProbert/macbook-fan-repair)** — Diagnosed a seized CPU fan causing 99°C temps, replaced the fan and thermal paste, and documented the whole process.
 
 ## Skills & Tools
 
 - **Operating Systems:** Linux, Windows, macOS
-- **Virtualisation:** KVM, QEMU, virt-manager
 - **Networking:** DNS, DHCP, Active Directory, Group Policy
-- **Tools:** Bash, PowerShell, Obsidian, Crmping
+- **Tools:** KVM, QEMU, virt-manager, Bash, PowerShell, Obsidian
 - **Soft Skills:** Customer service background across Royal Mail, hospitality, and retail
 
-## Interests
+## What's Next
 
-IT support, with an interest in network engineering.
+Actively looking for my first IT support role in Glasgow while continuing to build out my portfolio and homelab. Long term I want to move into network engineering, with the CCNA as the next step on that path.
 
 ## Get In Touch
 
