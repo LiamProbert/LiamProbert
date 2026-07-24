@@ -11,7 +11,10 @@ Transitioning from a customer-facing background into IT support. Based near Glas
 
 - **[Helpdesk PowerShell Toolkit](https://github.com/LiamProbert/helpdesk-powershell-toolkit)** — Five PowerShell scripts automating common AD helpdesk tasks. Built and tested on my homelab domain controller.
 - **[Active Directory Homelab](https://github.com/LiamProbert/active-directory-homelab)** — Windows Server 2022 domain controller and Windows 10 client running on KVM/QEMU on a ThinkPad T480. OUs, GPOs, and user management configured on lab.local.
+
 - **[MacBook Pro Fan Repair](https://github.com/LiamProbert/macbook-fan-repair)** — Diagnosed a seized CPU fan causing 99°C temps, replaced the fan and thermal paste, and documented the whole process.
+
+- **[Pi5 Homelab](https://github.com/LiamProbert/Pi5-Homelab)** — Raspberry Pi 5 migrated from microSD to NVMe SSD. Covers hardware assembly, OS setup, cloning, and boot verification, Twingate and Pi-hole up next.
 
 ## Skills & Tools
 
