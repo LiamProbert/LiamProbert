@@ -20,6 +20,8 @@ Transitioning from a customer-facing background into IT support. Based near Glas
 
 - **[T480 Remote Access](https://github.com/LiamProbert/t480-remote-access)** — Remote access to a ThinkPad T480 using Wake-on-LAN, SSH, and RDP through Twingate
 
+- **[MacBook Recovery and Fedora Partition Expansion](https://github.com/LiamProbert/macbook-recovery-fedora-expansion)** — Recovered a bricked MacBook, backed up a dual boot Fedora system, and expanded Fedora from 148 GiB to 368 GiB without reinstalling
+
 ### Hardware
  
 - **[MacBook Pro Fan Repair](https://github.com/LiamProbert/macbook-fan-repair)** - Diagnosed a seized CPU fan causing 99°C temps, replaced the fan and thermal paste, and documented the whole process.
